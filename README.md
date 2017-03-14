@@ -1,3 +1,6 @@
+# Ray Tracer
+
+![img](http://antiamoebic.com/cs184/as2i/image-03.png)
 Confirmed running on Mac!
 Simply run "make" in the main directory.
 To run, enter ".\as2 -i [inputfile] -o [outputfile]". Replace the brackets with the relevant files.
