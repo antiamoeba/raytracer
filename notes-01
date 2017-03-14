@@ -1,0 +1,10 @@
+./as2 -i input-01 -o image-01.png -d 1 -bvh -1 -j 5 5
+
+20 seconds to run, 1 second without j flag. 
+This image uses jitter sampling for antialiasing and bounding volume hierarchies.
+This image also contains a dielectric sphere.
+This image also contains examples of polygons(ground - obj file), triangles, spheres, ellipses(transformed spheres), and
+general transformations.
+
+
+Modified version of scene from journal.

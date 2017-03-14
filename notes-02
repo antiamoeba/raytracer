@@ -1,0 +1,7 @@
+./as2 -i input-02 -o image-02.png -d 1 -bvh -1 -m10
+
+3 seconds to run.
+This image uses soft shadows by implementing lights with volume.
+- when calculating the light vector, pick a random point on the light.
+
+This image uses monte carlo sampling for antialiasing.

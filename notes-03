@@ -1,0 +1,6 @@
+./as2 -i input-03 -o image-03.png -d 1 -bvh -1 -j 3 3
+
+Takes 10 seconds to run, 3 without -j flag.
+
+This image shows scenes with large numbers of polygons. With the BVH tree,
+runtimes are significantly cut down to manageable amounts.
